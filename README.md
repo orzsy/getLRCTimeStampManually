@@ -27,4 +27,6 @@ orzsy@qq.com
 - 添加可执行程序到/exec
 
 # 安装说明
-`直接下载/exec下的所有文件到本地，即可执行`
+
+直接[下载](https://raw.githubusercontent.com/orzsy/getLRCTimeStampManually/master/exec/getLRCTimeStampManually.rar)即可执行
+
